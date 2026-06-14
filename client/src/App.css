@@ -1,0 +1,61 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f6f9;
+  color: #222;
+}
+
+h1,
+h2 {
+  color: #2c3e50;
+}
+
+table {
+  background: white;
+  color: #222;
+}
+
+table td {
+  color: #222;
+}
+
+input,
+select {
+  color: #222;
+  background: white;
+}
+
+input::placeholder {
+  color: #666;
+}
+.delete-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+
+.activate-btn {
+  background-color: #3498db;
+  color: white;
+}
+
+.deactivate-btn {
+  background-color: #f39c12;
+  color: white;
+}
+.activate-btn {
+  background-color: #3498db;
+  color: white;
+}
+
+.deactivate-btn {
+  background-color: #f39c12;
+  color: white;
+}
+
+.delete-btn {
+  background-color: #e74c3c;
+  color: white;
+}
+.edit-btn {
+  background-color: #27ae60;
+  color: white;
+}
