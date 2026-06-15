@@ -4,7 +4,7 @@ A MERN Stack Employee Directory application developed during internship training
 
 ## Features
 
-- Add Employee
+- Add Employees
 - View Employees
 - Activate / Deactivate Employee
 - Delete Inactive Employees
