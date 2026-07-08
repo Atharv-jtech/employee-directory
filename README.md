@@ -15,15 +15,18 @@ A MERN Stack Employee Directory application developed during internship training
 ## Tech Stack
 
 ### Frontend
+
 - React
 - Axios
 - CSS
 
 ### Backend
+
 - Node.js
 - Express.js
 
 ### Database
+
 - MongoDB
 
 ## Project Structure
@@ -54,3 +57,7 @@ npm run dev
 ## Author
 
 Atharv Pardeshi
+
+## Login Feature
+
+Work in progress.
