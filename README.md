@@ -1,6 +1,6 @@
 # Employee Directory
 
-A MERN Stack Employee Directory application developed during internship training.
+A MERN Stack Employee Directory using login feature application developed during internship training.
 
 ## Features
 
@@ -63,4 +63,3 @@ Atharv Pardeshi
 Work in progress.
 
 setup
-
