@@ -65,3 +65,5 @@ Work in progress.
 setup
 
 work with linux
+
+learning devops
