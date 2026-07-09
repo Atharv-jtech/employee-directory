@@ -58,6 +58,10 @@ npm run dev
 
 Atharv Pardeshi
 
+## Contributors
+
+Atharv Pardeshi
+
 ## Login Feature
 
 Work in progress.
