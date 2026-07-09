@@ -1,6 +1,6 @@
 # Employee Directory
 
-A MERN Stack Employee Directory application developed during internship training.
+A MERN Stack Employee Directory using loginn feature application developed during internship training.
 
 ## Features
 
@@ -15,15 +15,18 @@ A MERN Stack Employee Directory application developed during internship training
 ## Tech Stack
 
 ### Frontend
+
 - React
 - Axios
 - CSS
 
 ### Backend
+
 - Node.js
 - Express.js
 
 ### Database
+
 - MongoDB
 
 ## Project Structure
@@ -54,3 +57,17 @@ npm run dev
 ## Author
 
 Atharv Pardeshi
+
+## Contributors
+
+Atharv Pardeshi
+
+## Login Feature
+
+Work in progress.
+
+setup
+
+work with linux
+
+learning devops
